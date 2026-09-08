@@ -13,6 +13,7 @@ metadata:
     demo.portainer.io/stack-version: "1"
 data:
   message: "survives both versions"
+  secondMessage: "yay"
 ---
 apiVersion: apps/v1
 kind: Deployment
